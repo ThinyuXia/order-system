@@ -1,6 +1,5 @@
 # 微信点餐数据库
 
-
 ```sql
 -- 类目
 create table `product_category` (

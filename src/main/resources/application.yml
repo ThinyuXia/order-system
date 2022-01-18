@@ -1,0 +1,17 @@
+spring:
+  datasourece:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://192.168.1.111/sell?characterEncoding=utf-8&useSSl=false
+  jpa:
+    show-sql: true  #在控制台和日志输出sql语句
+server:
+  context-path: /sell
+#logging:
+#  pattern:
+#    console: "%d - %msg%n"  #输出格式 日期 - 内容/n
+#  file:
+#    path: /var/log/tomcat/
+#    name: /var/log/tomcat/sell.log
+#  level: debug

@@ -1,0 +1,25 @@
+Starting OrderSystemApplicationTests using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 3045 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Started OrderSystemApplicationTests in 1.812 seconds (JVM running for 2.891)
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 3052 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 683 ms
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started OrderSystemApplication in 1.308 seconds (JVM running for 1.983)
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 3058 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 679 ms
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started OrderSystemApplication in 1.327 seconds (JVM running for 1.831)

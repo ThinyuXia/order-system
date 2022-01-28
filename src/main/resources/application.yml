@@ -1,9 +1,11 @@
 spring:
-  datasourece:
-    driver-class-name: com.mysql.jdbc.Driver
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver   #MySQL5用的驱动url是com.mysql.jdbc.Driver，
+    #MySQL6以后用的是com.mysql.cj.jdbc.Driver。
+    url: jdbc:mysql://192.168.210.48/sell?useUnicode=true&characterEncoding=utf-8&useSSL=false
     username: root
     password: 123456
-    url: jdbc:mysql://192.168.1.112/sell?useUnicode=true&characterEncoding=utf-8
   jpa:
     show-sql: true  #在控制台和日志输出sql语句
 

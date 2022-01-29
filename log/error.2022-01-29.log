@@ -99,3 +99,6 @@ Caused by: java.net.SocketTimeoutException: connect timed out
 	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:211)
 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:301)
 	... 80 common frames omitted
+Unknown column 'productinf0_.product_status' in 'field list'
+Unknown column 'productinf0_.product_status' in 'field list'
+Column 'product_name' cannot be null

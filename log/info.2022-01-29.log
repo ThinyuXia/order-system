@@ -1,0 +1,105 @@
+Starting CategoryServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 4229 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 44 ms. Found 1 JPA repository interfaces.
+HikariPool-1 - Starting...
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HikariPool-1 - Starting...
+Starting CategoryServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 4252 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 45 ms. Found 1 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Started CategoryServiceImplTest in 5.213 seconds (JVM running for 6.289)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting CategoryServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 4257 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Started CategoryServiceImplTest in 4.974 seconds (JVM running for 5.873)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting CategoryServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 4261 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 100 ms. Found 1 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Started CategoryServiceImplTest in 6.762 seconds (JVM running for 8.192)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting CategoryServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 4293 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Started CategoryServiceImplTest in 5.066 seconds (JVM running for 6.02)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting CategoryServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 4298 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 44 ms. Found 1 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Started CategoryServiceImplTest in 4.723 seconds (JVM running for 5.638)
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

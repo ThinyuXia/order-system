@@ -7,8 +7,10 @@ import org.hibernate.annotations.DynamicUpdate;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.Transient;
 import java.math.BigDecimal;
 import java.util.Date;
+import java.util.List;
 
 @Entity
 @Data
@@ -39,5 +41,8 @@ public class OrderMaster { //订单主表
 
     //更新时间
     private Date updateTime;
+
+//    @Transient //不去数据库找对应字段
+//    private List<OrderDetail> orderDetailList;
 
 }

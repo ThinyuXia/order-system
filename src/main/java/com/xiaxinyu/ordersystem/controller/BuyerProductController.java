@@ -20,7 +20,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @RestController //返回JSON格式
-@RequestMapping("/buyer/product")
+@RequestMapping("/buyer/product") //url前缀
 public class BuyerProductController {
 
     @Autowired
@@ -41,9 +41,12 @@ public class BuyerProductController {
 //            categoryTypeList.add(productInfo.getCategoryType());
 //        }
         //精简方法(lambda)
-        List<Integer> categoryTypeList = productInfoList.stream().map(e -> e.getCategoryType()).collect(Collectors.toList());
+        List<Integer> categoryTypeList = productInfoList.stream()
+                .map(e -> e.getCategoryType())
+                .collect(Collectors.toList());
 
         List<ProductCategory> productCategoryList = categoryService.findByCategoryTypeIn(categoryTypeList);
+
         //3.数据拼装
         List<ProductVO> productVOList = new ArrayList<>();
 
@@ -64,7 +67,6 @@ public class BuyerProductController {
             productVO.setProductInfoVOList(productInfoVOList);
             productVOList.add(productVO);
         }
-
 
         return ResultVOUtil.success(productVOList);
     }

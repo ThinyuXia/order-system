@@ -13,9 +13,10 @@ public interface ProductService {
     //查询所有在架商品
     List<ProductInfo> findUpAll();
 
-    //管理段查询所有商品
+    //后台查询所有商品
     Page<ProductInfo> findAll(Pageable pageable);
 
+    //新增 / 修改商品
     ProductInfo save(ProductInfo productInfo);
 
     //库存自增

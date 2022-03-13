@@ -1,6 +1,7 @@
 package com.xiaxinyu.ordersystem.dataobject;
 
 import lombok.Data;
+import lombok.ToString;
 import org.hibernate.annotations.DynamicInsert;
 import org.hibernate.annotations.DynamicUpdate;
 
@@ -10,9 +11,10 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.util.Date;
 
-@Entity //将数据库映射成对象
-@DynamicUpdate //动态更新时间
+@Entity //将数据库中的一条记录映射成一个对象
+@DynamicUpdate //动态更新时间——只有记录发生变化，日期才会更新
 @Data //使用lombok省略getter和setter方法
+@ToString
 public class ProductCategory {
     //类目id
     @Id
@@ -75,12 +77,5 @@ public class ProductCategory {
 //        this.updateTime = updateTime;
 //    }
 
-    @Override
-    public String toString() {
-        return "ProductCategory{" +
-                "categoryId=" + categoryId +
-                ", categoryName='" + categoryName + '\'' +
-                ", categoryType=" + categoryType +
-                '}';
-    }
+
 }

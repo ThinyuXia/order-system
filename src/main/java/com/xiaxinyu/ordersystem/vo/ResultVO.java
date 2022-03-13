@@ -1,5 +1,6 @@
 package com.xiaxinyu.ordersystem.vo;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
 
 @Data

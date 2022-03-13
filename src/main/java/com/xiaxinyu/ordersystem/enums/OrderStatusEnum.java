@@ -1,5 +1,8 @@
 package com.xiaxinyu.ordersystem.enums;
 
+import lombok.Getter;
+
+@Getter
 public enum OrderStatusEnum {
     NEW(0,"新订单"),
     FINISHED(1,"完结"),
@@ -13,19 +16,4 @@ public enum OrderStatusEnum {
         this.message = message;
     }
 
-    public Integer getCode() {
-        return code;
-    }
-
-    public void setCode(Integer code) {
-        this.code = code;
-    }
-
-    public String getMessage() {
-        return message;
-    }
-
-    public void setMessage(String message) {
-        this.message = message;
-    }
 }

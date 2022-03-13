@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 @Data
-//商品包含类目
+//类目下的商品
 public class ProductVO {
 
     @JsonProperty("name")

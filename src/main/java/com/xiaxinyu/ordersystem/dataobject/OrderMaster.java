@@ -5,9 +5,7 @@ import com.xiaxinyu.ordersystem.enums.PayStatusEnum;
 import lombok.Data;
 import org.hibernate.annotations.DynamicUpdate;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Transient;
+import javax.persistence.*;
 import java.math.BigDecimal;
 import java.util.Date;
 import java.util.List;
@@ -28,7 +26,8 @@ public class OrderMaster { //订单主表
     //买家端微信
     private String buyerOpenid;
 
-    private BigDecimal orderAmount;
+    //订单总金额
+    private BigDecimal buyerAmount;
 
     //订单状态,默认为新下单
     private Integer orderStatus = OrderStatusEnum.NEW.getCode();

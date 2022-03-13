@@ -1,5 +1,8 @@
 package com.xiaxinyu.ordersystem.enums;
 
+import lombok.Getter;
+
+@Getter
 public enum PayStatusEnum {
 
     WAIT(0,"未支付"),
@@ -13,19 +16,4 @@ public enum PayStatusEnum {
         this.message = message;
     }
 
-    public Integer getCode() {
-        return code;
-    }
-
-    public void setCode(Integer code) {
-        this.code = code;
-    }
-
-    public String getMessage() {
-        return message;
-    }
-
-    public void setMessage(String message) {
-        this.message = message;
-    }
 }

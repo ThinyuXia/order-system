@@ -1,6 +1,6 @@
 package com.xiaxinyu.ordersystem.service.impl;
 
-import com.xiaxinyu.ordersystem.controller.exception.SellException;
+import com.xiaxinyu.ordersystem.exception.SellException;
 import com.xiaxinyu.ordersystem.converter.OrderMaster2OrderDTO;
 import com.xiaxinyu.ordersystem.dataobject.OrderDetail;
 import com.xiaxinyu.ordersystem.dataobject.OrderMaster;
@@ -60,9 +60,10 @@ public class OrderServiceImpl implements OrderService {
                 throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
 
             //2.计算订单总价
-            orderAmount = productInfo.getProductPrice().multiply(new BigDecimal(orderDetail.getProductQuantity())).add(orderAmount);
+            orderAmount = productInfo.getProductPrice()
+                    .multiply(new BigDecimal(orderDetail.getProductQuantity())).add(orderAmount);
 
-            //订单详情入库
+            //写入订单详情数据库(orderDetail)
             orderDetail.setDetailId(KeyUtil.genUniqueKey());
             orderDetail.setOrderId(orderId);
             BeanUtils.copyProperties(productInfo, orderDetail);
@@ -73,9 +74,9 @@ public class OrderServiceImpl implements OrderService {
 
         //3.写入订单数据库(orderMaster)
         OrderMaster orderMaster = new OrderMaster();
+        orderDTO.setOrderId(orderId);
         BeanUtils.copyProperties(orderDTO, orderMaster);
-        orderMaster.setOrderId(orderId);
-        orderMaster.setOrderAmount(orderAmount);
+        orderMaster.setBuyerAmount(orderAmount);
         orderMaster.setOrderStatus(OrderStatusEnum.NEW.getCode());
         orderMaster.setPayStatus(PayStatusEnum.WAIT.getCode());
         orderMasterRepository.save(orderMaster);

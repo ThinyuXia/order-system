@@ -1,6 +1,6 @@
 package com.xiaxinyu.ordersystem.service.impl;
 
-import com.xiaxinyu.ordersystem.controller.exception.SellException;
+import com.xiaxinyu.ordersystem .exception.SellException;
 import com.xiaxinyu.ordersystem.dataobject.ProductInfo;
 import com.xiaxinyu.ordersystem.dto.CartDTO;
 import com.xiaxinyu.ordersystem.enums.ProductStatusEnum;
@@ -71,4 +71,5 @@ public class ProductServiceImpl implements ProductService {
             repository.save(productInfo);
         }
     }
+
 }

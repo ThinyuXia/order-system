@@ -285,3 +285,58 @@ Started OrderServiceImplTest in 5.073 seconds (JVM running for 6.126)
 Closing JPA EntityManagerFactory for persistence unit 'default'
 HikariPool-1 - Shutdown initiated...
 HikariPool-1 - Shutdown completed.
+Starting OrderServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 31290 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 58 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Started OrderServiceImplTest in 5.313 seconds (JVM running for 6.72)
+[查询订单] result = OrderDTO(orderId=1644554444712330834, buyerName=廖师兄, buyerPhone=12345678901, buyerAddress=慕课网, buyerOpenid=1101110, orderAmount=10.60, orderStatus=0, payStatus=0, createTime=2022-02-11 04:40:44.0, updateTime=2022-02-11 04:40:44.0, orderDetailList=[OrderDetail(detailId=1644554444813211498, orderId=1644554444712330834, productId=123458, productName=芒果冰, productPrice=4.20, productQuantity=1, productIcon=https://11111), OrderDetail(detailId=1644554444873988962, orderId=1644554444712330834, productId=123457, productName=皮皮虾, productPrice=3.20, productQuantity=2, productIcon=https://11111)])
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 31534 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 83 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Starting OrderServiceImplTest using Java 1.8.0_312 on xiaxinyudeMacBook-Pro.local with PID 31540 (started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 70 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+Started OrderServiceImplTest in 6.235 seconds (JVM running for 7.903)
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m28s153ms).
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

@@ -1,0 +1,491 @@
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 54178 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 124 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2628 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 19.609 seconds (JVM running for 21.541)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 56 ms
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 863 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 50 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1470 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 4.433 seconds (JVM running for 5.151)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1173 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 58 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1468 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 4.199 seconds (JVM running for 5.193)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1262 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 64 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1464 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 3.966 seconds (JVM running for 7.636)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1295 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 58 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1434 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 4.992 seconds (JVM running for 6.632)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m40s305ms).
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1314 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+HV000001: Hibernate Validator 6.0.11.Final
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 84 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2109 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 4.923 seconds (JVM running for 5.765)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1452 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+HV000001: Hibernate Validator 6.0.11.Final
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 49 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1458 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 4.069 seconds (JVM running for 4.787)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1595 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 72 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1538 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 3.829 seconds (JVM running for 4.815)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1603 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 59 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1471 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 3.861 seconds (JVM running for 4.596)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1651 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 61 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1603 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 4.245 seconds (JVM running for 4.85)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1715 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 47 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1229 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 3.235 seconds (JVM running for 3.775)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1757 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1730 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 4.111 seconds (JVM running for 4.829)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1778 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 79 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2536 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 5.468 seconds (JVM running for 6.269)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1859 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 63 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1379 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 3.482 seconds (JVM running for 4.07)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+HV000001: Hibernate Validator 6.0.11.Final
+Starting OrderSystemApplication using Java 1.8.0_312 on xiaxinyudeMBP with PID 1929 (/Users/xiaxinyu/Desktop/github-repo/OrderSystem/target/classes started by xiaxinyu in /Users/xiaxinyu/Desktop/github-repo/OrderSystem)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 54 ms. Found 4 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.56]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1243 ms
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.6.3.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started OrderSystemApplication in 3.397 seconds (JVM running for 3.972)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m27s638ms).
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.

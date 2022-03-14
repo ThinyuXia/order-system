@@ -1,0 +1,3 @@
+Unknown column 'ordermaste0_.order_amount' in 'field list'
+Column 'buyer_amount' cannot be null
+[订单支付完成] 订单状态不正确，orderId = OrderDTO(orderId=1647054799408570996 , buyerName=廖师兄, buyerPhone=12345678901, buyerAddress=慕课网, buyerOpenid=1101110, buyerAmount=5.00, orderStatus=0, payStatus=1, createTime=2022-03-11 12:21:49.0, updateTime=2022-03-11 14:10:39.0, orderDetailList=[OrderDetail(detailId=1647054799508553401, orderId=1647054799408570996, productId=123458, productName=橙子冰, productPrice=5.00, productQuantity=1, productIcon=111111)])

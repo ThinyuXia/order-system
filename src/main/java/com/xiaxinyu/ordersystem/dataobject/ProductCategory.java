@@ -27,7 +27,7 @@ public class ProductCategory {
 
 
     public ProductCategory() {
-
+        
     }
 
     public ProductCategory(String categoryName, Integer categoryType) {

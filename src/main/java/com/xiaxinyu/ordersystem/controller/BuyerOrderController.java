@@ -88,7 +88,7 @@ public class BuyerOrderController {
     public ResultVO cancel(@RequestParam("openid") String openid,
                            @RequestParam("orderId") String orderId){
         //TODO 不安全做法
-        buyerService.findOrderOne(openid,orderId);
+        OrderDTO orderDTO = buyerService.cancelOrder(openid,orderId);
         return ResultVOUtil.success();
     }
 }
